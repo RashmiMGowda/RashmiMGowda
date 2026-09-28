@@ -1,183 +1,233 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4338CA,100:06B6D4&height=260&section=header&text=RASHMI%20MUDLI%20GOWDA&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20%7C%20AI%20APPLICATIONS&descSize=16&descAlignY=55" alt="Rashmi Mudli Gowda — Software Engineer, Full Stack, AI Applications" />
+</p>
+
 <div align="center">
 
-# RASHMI MUDLI GOWDA
+<img src="https://img.shields.io/badge/5%2B_YEARS-SOFTWARE_ENGINEERING-7C3AED?style=for-the-badge&labelColor=0F172A" alt="5+ years of software engineering experience" />
 
-### Software Engineer · Full Stack Development · AI Applications
+<br><br>
 
-**5+ years building enterprise software for higher education and banking**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1400&color=22D3EE&center=true&vCenter=true&width=750&height=55&lines=Building+enterprise+software+that+serves+people.;Java+%2B+Spring+Boot+%2B+React+%2B+Python;From+banking+APIs+to+AI+applications.;MS+Computer+Science+%40+UT+Arlington" alt="Building enterprise software with Java, Spring Boot, React, and Python. MS Computer Science at UT Arlington." />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/rashmi-mudli-gowda-53260118/)
-[![GitHub](https://img.shields.io/badge/GitHub-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RashmiMGowda?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-Let%27s_Connect-238636?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashmimgowda2010@gmail.com)
+<br>
 
-**Previously Ellucian · Cognizant**  
-**M.S. Computer Science, AI/ML · UT Arlington · GPA 4.0/4.0**
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=0F172A)](https://www.linkedin.com/in/rashmi-mudli-gowda-53260118/)
+[![Projects](https://img.shields.io/badge/PROJECTS-EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/RashmiMGowda?tab=repositories)
+[![Email](https://img.shields.io/badge/EMAIL-SAY_HELLO-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:rashmimgowda2010@gmail.com)
+
+**Ellucian · Cognizant · UT Arlington**
+
+<img src="https://img.shields.io/badge/INTERNSHIPS-DEC_2026-10B981?style=flat-square&labelColor=0F172A" alt="Seeking internships from December 2026" />
+<img src="https://img.shields.io/badge/FULL_TIME-AFTER_MAY_2027-06B6D4?style=flat-square&labelColor=0F172A" alt="Seeking full-time opportunities after May 2027" />
 
 </div>
 
----
+<br>
 
-```javascript
-const rashmi = {
-  experience: "5+ years",
-  coreStack: ["Java", "Spring Boot", "React", "Python", "SQL"],
-  domains: ["Higher Education", "Banking"],
-  focus: ["Full Stack Development", "AI Applications"],
-  education: "MS Computer Science @ UT Arlington",
-  graduation: "May 2027",
-  location: "Arlington, Texas"
-};
-```
+## 🧑‍💻 Behind the Code
 
-## `01` — About Me
+> **5+ years building enterprise applications across higher education and banking — now applying that experience to AI.**
 
-I build backend services, full-stack applications, and integrations that support university and banking operations. My experience spans development, code reviews, release pipelines, production support, and developer mentoring.
+I develop backend services, full-stack applications, and integrations, with experience supporting them through code reviews, automated builds, releases, and production troubleshooting.
 
-At **Ellucian**, I developed applications integrated with university ERP systems and built ingestion pipelines processing **100,000+ records per batch**. At **Cognizant**, I developed banking services for **Société Générale**.
+- 🏢 **Previously:** Software Engineer II at **Ellucian**; Junior Software Engineer at **Cognizant**, serving **Société Générale**.
+- 🎓 **Studying:** M.S. Computer Science with an **AI/ML focus at UT Arlington** — **4.0 GPA**, expected **May 2027**.
+- 🏫 **Currently:** Student Web Developer at **UT Arlington’s College of Business**.
+- 🤖 **Building:** RAG applications and Python-based model deployment pipelines.
+- 🔬 **Researching:** Intelligent transportation using digital twins and reinforcement learning.
+- 📍 **Based in:** Arlington, Texas.
 
-I'm now pursuing an **M.S. in Computer Science with an AI/ML focus at UT Arlington**, applying my engineering experience to RAG applications, model deployment, and intelligent transportation research.
+<br>
 
-- 🏫 **Currently:** Student Web Developer, UT Arlington College of Business
-- 🎓 **Education:** M.S. Computer Science · **4.0 GPA** · Expected May 2027
-- 💼 **Internships:** Seeking opportunities starting December 2026
-- 🚀 **Full-time:** Seeking opportunities after graduation in May 2027
+<div align="center">
 
-## `02` — Engineering Highlights
+### ⚡ Experience in Numbers
 
-| Experience | Data Integration | Mentorship |
+| 🏢 SOFTWARE ENGINEERING | 🔄 DATA PROCESSING | 🤝 DEVELOPER MENTORING |
 | :---: | :---: | :---: |
-| **5+ years** | **100,000+ records** | **3–4 developers** |
-| Enterprise software in education and banking | Processed per ingestion batch | Onboarded and mentored at Ellucian |
+| **5+ YEARS** | **100,000+ RECORDS** | **3–4 DEVELOPERS** |
+| Higher education & banking | Per ingestion batch | Onboarded at Ellucian |
 
-## `03` — Skill Quest 🟡
+</div>
 
-**Backend foundations → Enterprise & full stack → Python & model serving → AI & research**
+<br>
 
-<img src="./skill-quest.gif" width="100%" alt="Pac-Man-style animation showing my learning journey through backend development, enterprise applications, Python, and AI." />
+## 🟡 Skill Quest · From Backend to AI
 
-## `04` — Technical Stack
+**Java & banking services → Enterprise & full stack → Python & model serving → AI & research**
 
-### Languages
+<p align="center">
+  <img src="./skill-quest.gif" width="100%" alt="Animated Pac-Man-style journey through my backend, full-stack, Python, and AI skills." />
+</p>
 
-![Java](https://img.shields.io/badge/Java-F89820?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL%20%2F%20PLSQL-336791?style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square)
+## 💻 My Developer Stack
 
-### Frameworks & APIs
+### 🟣 Languages
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-475569?style=flat-square)
-![Sitecore](https://img.shields.io/badge/Sitecore-EB1F1F?style=flat-square)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL_%2F_PLSQL-6366F1?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
 
-### Databases & Monitoring
+### 🔵 Frameworks & APIs
 
-![Oracle](https://img.shields.io/badge/Oracle-C74634?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge)
+![Sitecore](https://img.shields.io/badge/Sitecore-EB1F1F?style=for-the-badge)
 
-### Cloud & Delivery
+### 🟢 Databases & Monitoring
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-126ED3?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-334155?style=flat-square)
+![Oracle](https://img.shields.io/badge/Oracle-C74634?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white)
 
-### AI Applications
+### 🟠 Cloud & Delivery
 
-![RAG](https://img.shields.io/badge/Retrieval_Augmented_Generation-7C3AED?style=flat-square)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
-![LLM Applications](https://img.shields.io/badge/LLM_Applications-2563EB?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-126ED3?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-7C3AED?style=for-the-badge)
 
-## `05` — Selected Projects & Research
+### 🧠 AI Applications
+
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-0891B2?style=for-the-badge)
+![LLM Apps](https://img.shields.io/badge/LLM_Applications-DB2777?style=for-the-badge)
+
+<br>
+
+## 🚀 What I've Built
 
 ### 🤖 AI Advising Assistant
 
-`React` `FastAPI` `Supabase` `OpenAI API` `RAG`
+![AI Project](https://img.shields.io/badge/AI-RAG_APPLICATION-8B5CF6?style=flat-square&labelColor=0F172A)
 
-Built a retrieval-augmented generation application that indexes university course and department information to answer student advising questions.
+An advising application that indexes university course and department information to answer student questions using that data.
+
+**Stack:** `React` `FastAPI` `Supabase` `OpenAI API`
+
+---
 
 ### ⚙️ ML Model Deployment
 
-`Python` `Django` `Machine Learning`
+![ML Project](https://img.shields.io/badge/ML-MODEL_SERVING-06B6D4?style=flat-square&labelColor=0F172A)
 
-Built a pipeline to dynamically deploy and serve supervised machine learning models.
+A Python/Django pipeline to dynamically deploy and serve supervised machine learning models.
+
+**Stack:** `Python` `Django` `Machine Learning`
+
+---
 
 ### 🚦 Intelligent Transportation Research
 
-`Reinforcement Learning` `Digital Twins` `ISAC`
+![Research](https://img.shields.io/badge/RESEARCH-IN_PROGRESS-F59E0B?style=flat-square&labelColor=0F172A)
 
-Researching an AI-driven digital twin for intelligent transportation using reinforcement learning and integrated sensing and communication.
+An AI-driven digital twin for intelligent transportation using reinforcement learning and integrated sensing and communication (ISAC).
+
+**Focus:** `Reinforcement Learning` `Digital Twins` `ISAC`
 
 **Status:** Ongoing research; IEEE conference paper in preparation.
 
-**[Explore my repositories →](https://github.com/RashmiMGowda?tab=repositories)**
+<br>
 
-## `06` — Professional Experience
+[![Explore Repositories](https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-→-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/RashmiMGowda?tab=repositories)
 
-### UT Arlington · Student Web Developer
+<br>
+
+## 💼 Where I've Built & Contributed
+
+### 🟦 UT Arlington · Student Web Developer
 **July 2026 – Present · College of Business**
 
-- Develop responsive, accessible pages using **Sitecore CMS, HTML, CSS, and JavaScript**.
-- Publish pages for Career Services and Marketing & Sales websites.
-- Collaborate with faculty to improve content and user experience.
+- Build responsive, accessible pages using **Sitecore CMS, HTML, CSS, and JavaScript**.
+- Publish content for Career Services and Marketing & Sales websites.
+- Collaborate with faculty on content and user experience improvements.
 
-### Ellucian · Software Engineer II
+---
+
+### 🟪 Ellucian · Software Engineer II
 **August 2022 – December 2025 · Bengaluru, India**
 
 - Developed enterprise applications using **Java, Spring Boot, React, REST APIs, and Oracle SQL**, integrating with **Banner and Colleague ERP systems**.
-- Built **TargetX-to-Banner file-ingestion pipelines processing 100,000+ records per batch** across multiple university clients.
+- Built **TargetX-to-Banner ingestion pipelines processing 100,000+ records per batch** across multiple university clients.
 - Created scholarship application pages with dynamic form-selection logic.
 - Configured **Jenkins and SonarQube** for automated builds and code-quality checks.
-- Reviewed code and established shared implementation patterns to improve consistency and maintainability.
-- Mentored **3–4 newly hired developers** and delivered product knowledge-transfer sessions for an integrated TCS team.
-- Resolved production issues across **TargetX, StarRez, and EMS** for university clients across global time zones.
+- Reviewed code and established shared coding standards and implementation patterns.
+- Mentored **3–4 new developers** and delivered product knowledge-transfer sessions for an integrated TCS team.
+- Resolved production issues across **TargetX, StarRez, and EMS**, supporting clients across global time zones.
 
-### Cognizant · Junior Software Engineer
+---
+
+### 🟩 Cognizant · Junior Software Engineer
 **November 2020 – August 2022 · Bengaluru, India**  
 **Client: Société Générale**
 
-- Developed banking backend services and REST APIs using **Java, Spring Boot, Maven, and Oracle SQL**.
+- Developed banking backend services and REST APIs with **Java, Spring Boot, Maven, and Oracle SQL**.
 - Integrated **Amazon S3** with Java applications.
 - Enhanced a **Business Impact Analysis** application supporting operational risk assessment.
 - Set up **Elasticsearch** logging and used **Kibana** for production troubleshooting.
 - Contributed to **Java 8 → Java 11** migrations, including compatibility updates and testing.
 - Mentored junior developers on API development and Swagger documentation.
 
-## `07` — Education
+<br>
 
-| Degree | Institution | GPA | Graduation |
-| --- | --- | --- | --- |
-| **M.S. Computer Science**, AI/ML focus | University of Texas at Arlington | **4.0/4.0** | Expected May 2027 |
-| **B.E. Computer Science** | Acharya Institute of Technology, VTU | **3.5/4.0** | 2020 |
+## 🎓 Education
 
-## `08` — Certifications & Recognition
+| | Degree & Institution | Academic Details |
+| :---: | --- | --- |
+| 🎓 | **M.S. Computer Science** · University of Texas at Arlington | AI/ML focus · **4.0/4.0 GPA** · Expected **May 2027** |
+| 💻 | **B.E. Computer Science** · Acharya Institute of Technology, VTU | **3.5/4.0 GPA** · **2016–2020** |
 
-- **AWS Certified Cloud Practitioner** — earned 2022
-- **Best Performer of the Month** — Cognizant, 2022
-- **Ellucian High Impact Reward** — 2023
-- **Great Impact Award — AI Project Recognition** — 2026
-- **Certificate of Appreciation — UBMS** — 2026
+## 🏆 Certifications & Recognition
 
----
+| Recognition | Year |
+| --- | :---: |
+| ☁️ **AWS Certified Cloud Practitioner** — earned | 2022 |
+| ⭐ **Best Performer of the Month** — Cognizant | 2022 |
+| 🚀 **Ellucian High Impact Reward** | 2023 |
+| 🤖 **Great Impact Award — AI Project Recognition** | 2026 |
+| 🎖️ **Certificate of Appreciation — UBMS** | 2026 |
+
+<br>
+
+## ⌨️ Current Focus
+
+```python
+class NextChapter:
+    building = ["Full-stack applications", "AI advising tools"]
+    exploring = ["Reinforcement learning", "Intelligent transportation"]
+    bringing = ["Enterprise experience", "Production support", "Mentorship"]
+    seeking = {
+        "internships": "December 2026 onward",
+        "full_time": "After graduation in May 2027"
+    }
+```
+
+<br>
 
 <div align="center">
 
-### Let's Build Something Useful
+## Let's Build Something Useful 🤝
 
-Interested in **software engineering, backend, full-stack, and AI application development** opportunities.
+**Backend Engineering · Full Stack Development · AI Applications**
 
-**Internships from December 2026 · Full-time after May 2027**
+Open to conversations about software engineering opportunities and collaboration.
 
-[LinkedIn](https://www.linkedin.com/in/rashmi-mudli-gowda-53260118/) · [Email](mailto:rashmimgowda2010@gmail.com) · [GitHub](https://github.com/RashmiMGowda)
+[![Contact](https://img.shields.io/badge/LET%27S_CONNECT-EMAIL_ME-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:rashmimgowda2010@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/FIND_ME_ON-LINKEDIN-8B5CF6?style=for-the-badge&labelColor=0F172A)](https://www.linkedin.com/in/rashmi-mudli-gowda-53260118/)
+
+**Arlington, Texas · Internships from Dec 2026 · Full-time after May 2027**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4338CA,100:06B6D4&height=110&section=footer" alt="" />
