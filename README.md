@@ -5,7 +5,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./experience-footsteps.gif" width="700" alt="5+ years of experience. Every step builds experience. Still learning, still moving forward." />
+  <img src="./experience-inline.gif" width="700" alt="5+ years of experience. Every step builds experience." />
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1400&color=22D3EE&center=true&vCenter=true&width=750&height=55&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Python;Enterprise+Applications+%26+Database+Migrations;University+Integrations+%26+Banking+Systems;MS+Computer+Science+%28AI%2FML%29+%40+UTA" alt="Java, Spring Boot, React, and Python. Enterprise applications, database migrations, university integrations, and banking systems." />
@@ -66,7 +66,9 @@ I'm now pursuing an **M.S. in Computer Science with an AI/ML focus at UT Arlingt
 </p>
 
 ## 💻 Technical Stack
-
+<p align="center">
+  <img src="./skills-pacman-inline.gif" width="700" alt="Pac-Man collecting Java, Spring Boot, SQL, React, AWS, Python, and AI skills." />
+</p>
 ### 🟣 Languages & Database Programming
 
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge)
