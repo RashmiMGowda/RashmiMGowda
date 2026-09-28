@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4338CA,100:06B6D4&height=260&section=header&text=RASHMI%20MUDLI%20GOWDA&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20%7C%20AI%20APPLICATIONS&descSize=16&descAlignY=55" alt="Rashmi Mudli Gowda — Software Engineer, Full Stack Development, AI Applications" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4338CA,100:06B6D4&height=260&section=header&text=RASHMI%20MUDLI%20GOWDA&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20%7C%20AI%20APPLICATIONS&descSize=16&descAlignY=55" alt="Rashmi Mudli Gowda — Software Engineer, Full Stack Developer, AI Applications" />
 </p>
 
 <div align="center">
