@@ -1,16 +1,14 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4338CA,100:06B6D4&height=260&section=header&text=RASHMI%20MUDLI%20GOWDA&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20%7C%20AI%20APPLICATIONS&descSize=16&descAlignY=55" alt="Rashmi Mudli Gowda — Software Engineer, Full Stack Developer, AI Applications" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4338CA,100:06B6D4&height=260&section=header&text=RASHMI%20MUDLI%20GOWDA&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=FULL%20STACK%20SOFTWARE%20ENGINEER%20%7C%20ML/AI%20APPLICATIONS&descSize=16&descAlignY=55" alt="Rashmi Mudli Gowda — Software Engineer, Full Stack Developer, AI Applications" />
 </p>
 
 <div align="center">
 
-![Experience](https://img.shields.io/badge/5%2B_YEARS-SOFTWARE_ENGINEERING-7C3AED?style=for-the-badge&labelColor=0F172A)
-
-<br>
+<p align="center">
+  <img src="./experience-footsteps.gif" width="700" alt="5+ years of experience. Every step builds experience. Still learning, still moving forward." />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1400&color=22D3EE&center=true&vCenter=true&width=750&height=55&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Python;Enterprise+Applications+%26+Database+Migrations;University+Integrations+%26+Banking+Systems;MS+Computer+Science+%28AI%2FML%29+%40+UTA" alt="Java, Spring Boot, React, and Python. Enterprise applications, database migrations, university integrations, and banking systems." />
-
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=0F172A)](https://www.linkedin.com/in/rashmi-mudli-gowda-53260118/)
 [![Projects](https://img.shields.io/badge/PROJECTS-EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/RashmiMGowda?tab=repositories)
